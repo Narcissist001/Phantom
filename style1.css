@@ -1,0 +1,46 @@
+
+
+
+.Fruits{
+    background-color: green;
+    color: black;
+    border: 100px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: center;
+}
+
+.Cars{
+    background-color: plum;
+    color: black;
+    border: 100px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.Sports{
+    background-color: lightblue;
+    color: black;
+    border: 100px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: center;
+}
+
+.Phones{
+    background-color: lightcoral;
+    color: black;
+    border: 100px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.NBA{
+    background-color: lightsalmon;
+    color: black;
+    border: 100px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: center;
+}
+
